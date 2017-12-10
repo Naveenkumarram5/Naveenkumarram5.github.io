@@ -2,8 +2,13 @@
    
     margin: 0;
     padding: 0;
-    background: #B586DA;
+   
+    background-image: url("image/bgimg.jpg");
+    
+    backface-visibility: true;
+
 }
+
 
 
 
@@ -15,6 +20,7 @@
     
     align-self: auto;
     overflow: hidden;
+  
     background: white;
 }
 #slideshow {
